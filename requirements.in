@@ -1,0 +1,10 @@
+ads # query ADS
+anytree # tree data structures
+astropy
+graphviz # tree visualization
+itables # interactive tables in Jupyter
+jupyterlab
+matplotlib
+pandas
+rapidfuzz # fuzzy string comparisons
+tqdm # progress bars
